@@ -5,16 +5,16 @@
 ## - https://github.com/Msorensen1996/forum
 ## - https://github.com/Msorensen1996/aircraft
 # Experience
- HTML
- Java
- PHP
- Node.js
- Angular
- Ionic
- phython
+ HTML <br>
+ Java <br>
+ PHP <br>
+ Node.js <br>
+ Angular <br>
+ Ionic <br>
+ phython <br>
  C#
  ## certifications
- Computer Assistant **High Honors** South Central College
+ Computer Assistant **High Honors** South Central College <br>
  Web Programmer **High Honors** South Central College
  
  # Linked In
