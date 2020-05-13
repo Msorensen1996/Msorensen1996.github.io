@@ -12,10 +12,10 @@
  Angular <br>
  Ionic <br>
  phython <br>
- C#
- ## certifications
+ C# <br>
+ ### certifications
  Computer Assistant **High Honors** South Central College <br>
  Web Programmer **High Honors** South Central College
  
- # Linked In
+ #### Linked In
  https://www.linkedin.com/in/matthew-sorensen-b8b8b2189/
